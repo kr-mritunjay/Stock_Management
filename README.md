@@ -45,5 +45,3 @@ This ensures data is consistent, reliable, and persists across sessions.
 - **Architecture**: Object-Oriented Design  
 
 ---
-
-## 📌 Project Architecture
